@@ -1,0 +1,19 @@
+{
+  "name": "jstobd",
+  "version": "1.0.0",
+  "description": "Usando JS de CSV para BD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.2.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-execute": "^0.2.2"
+  }
+}
